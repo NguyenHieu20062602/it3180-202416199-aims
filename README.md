@@ -4,3 +4,4 @@
 
 - Sinh viên: Nguyễn Văn A – MSSV 2022xxxx
 - Chạy chương trình: `python main.py`
+- Y�u c?u: Python 3.10 tr? l�n.

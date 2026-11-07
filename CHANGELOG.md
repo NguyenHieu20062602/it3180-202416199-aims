@@ -4,9 +4,12 @@ All notable changes to this project are documented in this file.
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-11-07
+
 ### Added
 - Cart.sort_by_title() to sort DVDs alphabetically by title.
 - Cart.sort_by_cost() to sort DVDs by ascending cost.
+- search_by_category() for searching DVDs by category.
 
 ## [1.0.0] - 2026-11-07
 
